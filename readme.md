@@ -9,7 +9,7 @@ menggunakan model XGBoost.
 ## 🚀 Tech Stack
 
 ### Backend
-- Node.js + Express
+- FastAPI
 - PostgreSQL + pg (database)
 - YOLO custom model (motor detection)
 - EfficientNet (image feature extraction)
