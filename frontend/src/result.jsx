@@ -1,0 +1,1 @@
+** Menampilkan deteksi dan harga **
